@@ -4,35 +4,35 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "University of Miami",
       url: "https://admissions.miami.edu/undergraduate/financial-aid/scholarships/stamps/index.html",
-      image: "./assets/miami.jpg",
+      image: "assets/miami.jpg",
       description:
         "Prepare for today's interconnected, global world with an education that's broad, deep, and uniquely your own. At the University of Miami, you will be able to individualize your academic experience with programs that cater to your strengths, goals, and curiosities.",
     },
     {
       name: "Simmons University",
       url: "https://www.simmons.edu/undergraduate/admission-and-financial-aid/tuition-financial-aid/types-financial-aid/scholarships/kotzen",
-      image: "./assets/Simmons.jpg",
+      image: "assets/Simmons.jpg",
       description:
         "The Simmons Distinguished Scholar Award is a competitive merit award that recognizes the best and brightest students interested in a transformative education at Simmons University.",
     },
     {
       name: "East West Center",
       url: "https://www.eastwestcenter.org/education/ewc-graduate-degree-fellowship",
-      image: "./assets/stwart.webp",
+      image: "assets/stwart.webp",
       description:
         "The East-West Center Graduate Degree Fellowship provides funding for students pursuing graduate study at the University of Hawaii while participating in educational and leadership development programs.",
     },
     {
       name: "Bright Scholarship",
       url: "https://brightscholarship.com/ursinus-gateway-international-scholarship-in-usa/",
-      image: "./assets/miami.jpg",
+      image: "assets/miami.jpg",
       description:
         "Bright Scholarship provides funding for international students aiming to pursue undergraduate and graduate studies in the USA.",
     },
     {
       name: "University of Miami - Young Leaders Fellowship",
       url: "https://brightscholarship.com/mcw-young-leaders-fellowship-program-2025/",
-      image: "./assets/miami.jpg",
+      image: "assets/miami.jpg",
       description:
         "MCW’s Young Leaders Fellowship Program is designed to support young leaders across the world in their professional and academic development.",
     },
